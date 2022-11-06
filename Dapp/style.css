@@ -1,0 +1,59 @@
+.con {
+  display: flex;
+  flex-direction: column;
+  margin-top: 60px;
+  align-items: center;
+}
+
+.container1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-style: solid;
+  width: 70%;
+  
+}
+
+.container2{
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  border-style: solid;
+  background-color: black;
+}
+
+.inp1{
+  width: 138px;
+}
+
+.inp3{
+  width: 125px;
+}
+
+#buy{
+  width: 25%;
+}
+
+.con3 {
+  text-align: center;
+  margin: 1%;
+}
+
+.con4 {
+  text-align: center;
+  margin: 1%
+}
+
+#eat{
+  width: 60%
+  
+}
+
+#empty{
+  width: 80%;
+}
+
+#im {
+  width: 90%
+}
+
